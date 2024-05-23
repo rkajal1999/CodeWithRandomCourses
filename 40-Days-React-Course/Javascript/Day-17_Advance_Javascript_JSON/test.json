@@ -1,0 +1,8 @@
+{
+    "name":"Kajal",
+    "age":23,
+    "myObj":{
+        "username":"kajal1234","password":23456789
+    },
+    "myArr":["Kajal",23,true,null,{"name":"Kajal","age":23}]
+}
